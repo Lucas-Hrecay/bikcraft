@@ -1,0 +1,25 @@
+:root{
+   --fundo-1: #000000;
+   --texto-primario: #ffffff;
+}
+
+body{
+    margin: 0;
+    border: 0;
+    color: var(--texto-primario);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,h2,h3,p{
+    margin: 0;
+    border: 0;
+    
+}
+
+ul {
+list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
